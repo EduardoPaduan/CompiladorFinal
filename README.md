@@ -172,21 +172,22 @@ Teste de saída de dados:
 
 Teste de variável global:
 
-![image](https://user-images.githubusercontent.com/85192052/223570932-2357b092-a3c9-45a6-96a8-00af700c9ebd.png)
+![2](https://user-images.githubusercontent.com/85192052/223572192-2810996f-0ce1-4d56-a8d5-61ffa7543149.png)
 
 Teste de atribuição e condição:
 
-![image](https://user-images.githubusercontent.com/85192052/223571038-10200a23-4015-43b7-8d2c-73d4208388ef.png)
+![3](https://user-images.githubusercontent.com/85192052/223572251-b13ed3ac-59c9-4b0c-8e31-b722e34d54d8.png)
 
 Teste do laço de repetição “while”:
 
-![image](https://user-images.githubusercontent.com/85192052/223571128-0e3c5eea-f916-45df-9968-bf9ea7575aba.png)
+![4](https://user-images.githubusercontent.com/85192052/223572312-51e1e9be-0f9a-4431-ac62-b698a016f406.png)
 
 Teste do laço de repetição “for”:
 
-![image](https://user-images.githubusercontent.com/85192052/223571397-d1943e90-4915-48d2-bf5c-f29f7066929d.png)
+![6](https://user-images.githubusercontent.com/85192052/223572432-0866daaa-9079-4e2d-98ca-d230a3de206b.png)
 
 Teste de função com retorno
 
-![image](https://user-images.githubusercontent.com/85192052/223571283-d262666f-d11d-403e-8221-3104b8008bc2.png)
+![5](https://user-images.githubusercontent.com/85192052/223572463-776a02c4-3751-41b1-b7ad-a8e2093312c4.png)
+
 
