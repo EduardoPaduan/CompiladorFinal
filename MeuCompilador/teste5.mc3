@@ -1,0 +1,12 @@
+#include "stdio.h"
+
+function int add(int x, int y) {
+    return x + y;
+}
+
+main {
+    int a = 5;
+    int b = 10;
+    int result = add(a, b);
+    writeln "A soma de ", a, " e ", b, " é: ", result;
+}

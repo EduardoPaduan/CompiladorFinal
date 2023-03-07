@@ -1,0 +1,10 @@
+#include "stdio.h"
+
+main {
+    int x = 10;
+    if (x < 5) {
+        writeln "x é menor 5";
+    } else {
+        writeln "x ié maior ou igual a 5";
+    }
+}

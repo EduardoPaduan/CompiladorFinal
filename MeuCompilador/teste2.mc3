@@ -1,0 +1,8 @@
+#include "stdio.h"
+
+global int x;
+
+main {
+    x = 5;
+    writeln "O valor de x é: ", x;
+}
